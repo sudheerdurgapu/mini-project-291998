@@ -45,7 +45,3 @@ This appliaction is used to calculate turn around time.
  HR02 | user can use for multiple process | Implemented
  HR03 | user see  process of each state   | Implemented
  HR04 | user can keep two process at time | future
- 
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
